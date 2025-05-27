@@ -1,0 +1,15 @@
+{
+    "name": "zk_square_proof",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "compile": "./compile.sh",
+      "setup": "./setup.sh",
+      "prove": "./prove.sh",
+      "verify": "./verify.sh"
+    },
+    "author": "",
+    "license": "MIT"
+  }
+  
